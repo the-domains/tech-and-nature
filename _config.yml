@@ -1,0 +1,28 @@
+name: 'Technology & Nature'
+favicon: null
+layout_spectrum: 0.4911855631507933
+typography_spectrum: 0.15992913022637367
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.6255846463609487
+  lightness: 0.24840534897521138
+  saturation: 0.7849283248651773
+  rhythmicContrast: 0.3087795090395957
+purpose: []
